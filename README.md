@@ -1,2 +1,2 @@
 # public-knowledge-base
-knowledge base for common issues within our security operations center
+knowledge base for troubleshooting common issues within our Azure security operations center
